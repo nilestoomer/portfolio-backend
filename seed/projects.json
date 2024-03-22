@@ -1,0 +1,30 @@
+[
+    {
+        "title": "Anime Meditations",
+        "description": "Anime Meditations is an app that displays quotes from a variety of shows and characters. There is also a dropdown to select a show and get a quote.",
+        "github": "",
+        "languages": "HTML, CSS, JavaScript",
+        "frameworks": "VSCode"
+    },
+    {
+        "title": "ATLA Lore",
+        "description": "ATLA Lore is an all things avatar knowledge app. There is a new character displayed on refresh along with a character search and nation search function.",
+        "github": "",
+        "languages": "HTML, CSS, JavaScript",
+        "frameworks": "React"
+    },
+    {
+        "title": "World Cup API",
+        "description": "The World Cup API has the has the entire squad of every World Cup winning team.",
+        "github": "",
+        "languages": "HTML, CSS, JavaScript",
+        "frameworks": "VSCode"
+    },
+    {
+        "title": "Broadway Shows",
+        "description": "Anime Meditations is an app that displays quotes from a variety of shows and characters. There is also a dropdown to select a show and get a quote.",
+        "github": "",
+        "languages": "HTML, CSS, JavaScript",
+        "frameworks": "VSCode"
+    }
+]
