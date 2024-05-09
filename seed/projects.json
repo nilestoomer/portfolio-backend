@@ -1,29 +1,49 @@
 [
     {
         "title": "Anime Meditations",
+        "screenshot": "https://i.imgur.com/HOcner4.png",
         "description": "Anime Meditations is an app that displays quotes from a variety of shows and characters. There is also a dropdown to select a show and get a quote.",
-        "github": "",
+        "github": "https://github.com/nilestoomer/aminemeditations",
         "languages": "HTML, CSS, JavaScript",
         "frameworks": "VSCode"
     },
     {
         "title": "ATLA Lore",
+        "screenshot": "https://i.imgur.com/7iHPgiS.png",
         "description": "ATLA Lore is an all things avatar knowledge app. There is a new character displayed on refresh along with a character search and nation search function.",
-        "github": "",
+        "github": "https://github.com/nilestoomer/ATLA",
         "languages": "HTML, CSS, JavaScript",
         "frameworks": "React"
     },
     {
         "title": "World Cup API",
+        "screenshot": "https://i.imgur.com/CKza1UP.png",
         "description": "The World Cup API has the has the entire squad of every World Cup winning team.",
-        "github": "",
+        "github": "https://github.com/nilestoomer/world-cup-api",
         "languages": "HTML, CSS, JavaScript",
         "frameworks": "VSCode"
     },
     {
         "title": "Broadway Shows",
-        "description": "Anime Meditations is an app that displays quotes from a variety of shows and characters. There is also a dropdown to select a show and get a quote.",
-        "github": "",
+        "screenshot": "https://i.imgur.com/u9JNnfS.png",
+        "description": "Broadway Shows is a fullstack application that allows you to see all shows currently running on broadway along with locations, tickets, and times.",
+        "github": "https://github.com/nilestoomer/broadway-shows",
+        "languages": "HTML, CSS, JavaScript",
+        "frameworks": "VSCode"
+    },
+    {
+        "title": "The Real Reel",
+        "screenshot": "https://i.imgur.com/CLvF3aF.png",
+        "description": "The Real Reel is a fullstack social media website that allows users to leave reviews on movies as well as follow and react to other users reviews.",
+        "github": "https://github.com/ambretate/the-real-reel-front-end",
+        "languages": "HTML, CSS, JavaScript",
+        "frameworks": "VSCode"
+    },
+    {
+        "title": "Duo Q",
+        "screenshot": "https://i.imgur.com/lppUN8e.png",
+        "description": "Duo Q is a fullstack application that allows users to set games that they are playing, played, and interested in playing. Users can interact with each other through follows and games associated with the user.",
+        "github": "https://github.com/noshinc346/duoq-frontend",
         "languages": "HTML, CSS, JavaScript",
         "frameworks": "VSCode"
     }
